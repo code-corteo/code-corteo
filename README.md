@@ -10,7 +10,7 @@ HTML / CSS / JAVASCRIPT / C++ / JAVA / PYTHON.
 
 ##### MOTTO
 
-> 
+> Differences need to be unique not odd!
 
 ####
 
