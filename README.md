@@ -1,6 +1,6 @@
 ### Hi, I'am Rizki Octaf 👋
 
-- I'am a web developer with an amazing ability to develop websites that are both. 
+- I'am a Beginner developer with an amazing ability to develop websites that are both. 
  
 - I have a strong understanding of web standards and practices, and I'am passionate about creating websites that users will find easy to use and visually appealing...
 
