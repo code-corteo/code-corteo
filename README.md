@@ -6,7 +6,7 @@
 
 #### TECH STACK
 
-HTML / CSS / JAVASCRIPT / C++ / JAVA / PYTHON.
+HTML / CSS / JAVASCRIPT.
 
 ##### MOTTO
 
