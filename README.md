@@ -1,16 +1,16 @@
 ### Hi, I'am Rizki Octaf 👋
 
-- I'am a Beginner developer with an amazing ability to develop websites that are both. 
+- Saya seorang Pengembang Java Tingkat Pemula yang sangat fokus dan andal dengan etika kerja yang luar biasa dan basis pengetahuan bahasa komputer. 
  
-- I have a strong understanding of web standards and practices, and I'am passionate about creating websites that users will find easy to use and visually appealing...
+- Saya juga memiliki minat dan keingintahuan yang besar terhadap Teknologi Disruptif seperti AI (Kecerdasan Buatan), Machine Learning (Pembelajaran Mesin), atau Blockchain.
 
 #### TECH STACK
 
-HTML / CSS / JAVASCRIPT.
+JAVA / HTML / CSS / JAVASCRIPT.
 
 ##### MOTTO
 
-> "Fix the cause, not the symptom."
+> "Kode hari ini, aplikasi besok."
 
 
 ####
