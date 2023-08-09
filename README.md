@@ -10,7 +10,7 @@ JAVA / HTML / CSS / JAVASCRIPT.
 
 ##### MOTTO
 
-> "Kode hari ini, aplikasi besok."
+> "Kode hari ini, Aplikasi esok hari."
 
 
 ####
