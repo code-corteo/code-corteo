@@ -11,11 +11,3 @@ JAVA / HTML / CSS / JAVASCRIPT.
 ##### MOTTO
 
 > "Kode hari ini, Aplikasi esok hari."
-
-
-####
-
-<a href="https://www.facebook.com/" target="_blank"><img src="https://raw.githubusercontent.com/rizki-octaf/rizki-octaf/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/rizkioctaf" target="_blank"><img src="https://raw.githubusercontent.com/rizki-octaf/rizki-octaf/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://raw.githubusercontent.com/rizki-octaf/rizki-octaf/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://github.com/rizki-octaf" target="_blank"><img src="https://raw.githubusercontent.com/rizki-octaf/rizki-octaf/master/git.png" alt="GitHub" width="30"></a>
