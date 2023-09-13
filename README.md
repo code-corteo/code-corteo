@@ -10,4 +10,4 @@ JAVA / HTML / CSS / JAVASCRIPT.
 
 ##### MOTTO
 
-> "Kode hari ini, Aplikasi esok hari."
+> "Tetaplah Penasaran, Teruslah menulis kode"
