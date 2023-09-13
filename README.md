@@ -11,11 +11,7 @@ Halo! Saya adalah seorang pemula dalam pemograman C++ yang sangat tertarik denga
 - 🐧 Saya tertarik dan memiliki pengetahuan tentang sistem GNU/Linux dan sering berkontribusi dalam komunitas open source.
 - 🌟 Saya memiliki minat khusus dalam perkembangan Augmented Reality (AR) dan Artificial Intelligence (IA) serta bagaimana teknologi ini akan membentuk masa depan.
 
-### TECh STACK
-
-JAVA / HTML / CSS / JAVASCRIPT.
-
-### MOTTO
+### Kutipan
 
 > "Tetaplah Penasaran, Teruslah menulis kode"
 
@@ -25,6 +21,6 @@ Saya akan berusaha untuk berbagi proyek-proyek yang saya kerjakan di sini, terut
 
 ## Hubungi Saya
 
-Jika Anda ingin berkolaborasi, berbicara tentang pemrograman C++, teknologi, GNU/Linux, AR, atau IA, jangan ragu untuk menghubungi saya. Anda dapat mengirim pesan kepada saya melalui GitHub atau melalui [email saya](mailto:youremail@example.com).
+Jika Anda ingin berkolaborasi, berbicara tentang pemrograman C++, teknologi, GNU/Linux, AR, atau IA, jangan ragu untuk menghubungi saya. Anda dapat mengirim pesan kepada saya melalui GitHub atau melalui [email saya](mailto:rizkioctafadilah96@gmail.com).
 
 Terima kasih telah mengunjungi GitHub saya, dan saya berharap dapat berkenalan lebih jauh dengan Anda di masa depan!
