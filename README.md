@@ -14,6 +14,7 @@ Halo! Saya adalah seorang pemula dalam pemograman C++ yang sangat tertarik denga
 ### Kutipan
 
 > "Tetaplah Penasaran, Teruslah menulis kode"
+> Rasa ingin tahu yang mendalam dan keinginan untuk terus belajar dan pentingnya praktek yang konsisten dalam menulis kode
 
 ## Proyek-Proyek
 
