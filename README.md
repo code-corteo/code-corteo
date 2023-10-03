@@ -19,7 +19,7 @@ Rasa ingin tahu yang mendalam dan keinginan untuk terus belajar dan pentingnya p
 
 ## Proyek-Proyek
 
-Saya akan berusaha untuk berbagi proyek-proyek yang saya kerjakan di sini, terutama yang terkait dengan pemrograman C++, teknologi, AR, dan IA. Saya berharap dapat belajar dan berkolaborasi dengan komunitas GitHub yang luar biasa ini.
+Saya akan berusaha untuk berbagi proyek-proyek yang saya kerjakan di sini, terutama yang terkait dengan pemrograman C++. Saya berharap dapat belajar dan berkolaborasi dengan komunitas GitHub yang luar biasa ini.
 
 ## Hubungi Saya
 
