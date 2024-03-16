@@ -15,8 +15,8 @@ Halo! Saya adalah seorang pemula dalam pemograman C++ yang sangat tertarik denga
 
 Rasa ingin tahu yang mendalam dan keinginan untuk terus belajar dan pentingnya praktek yang konsisten
 
-## Hubungi Saya
+# Hubungi Saya
 
-Jika Anda ingin berbicara tentang pemrograman C++, teknologi dan GNU/Linux jangan ragu untuk menghubungi saya. Anda dapat mengirim pesan kepada saya melalui GitHub atau melalui [email saya](mailto:rizkioctafadilah96@gmail.com).
+Jika Anda ingin berbicara tentang pemrograman C++, teknologi dan GNU/Linux jangan ragu untuk menghubungi saya. Anda dapat mengirim pesan kepada saya melalui GitHub atau melalui [Email saya](mailto:rizkioctafadilah96@gmail.com).
 
 Terima kasih telah mengunjungi GitHub saya, dan saya berharap dapat berkenalan lebih jauh dengan Anda di masa depan!
