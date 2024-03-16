@@ -12,4 +12,4 @@ Halo! Saya seorang pemula dalam pemograman C++ yang sangat tertarik dengan tekno
 
 > "Tetaplah Penasaran, Teruslah Mencari"
 
-Rasa ingin tahu yang mendalam dan keinginan untuk terus belajar dan pentingnya praktek yang konsisten
+Rasa ingin tahu yang mendalam dan keinginan untuk terus belajar
